@@ -28,4 +28,7 @@ Sum of Weekly Savings: sum of money saved each week
  - Not saving $250/week
 
 ## Process Map
+This process map shows the current process I am using to save money, I will implement changes to this process to increase savings.
+
 ![image](https://user-images.githubusercontent.com/94664740/226765589-a6291870-5dd0-4231-a437-75892aae4789.png)
+
