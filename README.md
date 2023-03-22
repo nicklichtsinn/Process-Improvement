@@ -93,6 +93,7 @@ For the last 5 weeks I have implemented these new rules and collected the data i
 
 ### Weekly Spend:
 ![image](https://user-images.githubusercontent.com/94664740/226767934-6f8977fc-d9e3-4d19-8a81-0cf7f60de51e.png)
+
 For my total weekly spend, I had a Z-score of 1.39 and a P-Value of 0.1518. This was not statistically significant at the α = 0.05, and I will not reject the null hypothesis.
 
 ### Weekly Savings:
